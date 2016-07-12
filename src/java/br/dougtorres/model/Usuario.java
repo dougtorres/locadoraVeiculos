@@ -9,6 +9,11 @@ package br.dougtorres.model;
  *
  * @author Douglas Torres
  */
-public class Usuario {
+public class Usuario extends Pessoa{
+
+    public Usuario() {
+    }
+    
+    
     
 }
